@@ -1,0 +1,20 @@
+body{
+    background: url(../images/culturetest.jpeg) no-repeat center center fixed;
+    background-size: cover;
+}
+
+h1.one{
+    border: 5px solid #0b5482 ;
+    width: 300px;
+    text-align: center;
+    margin-top: 430px;
+    margin-left: 480px;
+    font-family: 'Oswald', sans-serif;
+    color: white
+}
+div{
+    background-color: #fed500
+}
+h1 i {
+    color: #0b5482;
+}

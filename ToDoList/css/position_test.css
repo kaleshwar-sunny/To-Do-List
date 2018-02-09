@@ -1,0 +1,29 @@
+body{
+    height: 100%;
+    margin: 0;
+}
+.bg {
+    background-color: greenyellow;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+}
+.two{
+    border: 4px solid green;
+    position: relative;
+    padding: 250px;
+    background-color: lightgreen;
+    top: 90px;
+    display: inline-block;
+    width: 400px;
+    left: 15%;
+}
+img{
+    width: 300px;
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}

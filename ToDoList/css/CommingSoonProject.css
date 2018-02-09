@@ -1,0 +1,21 @@
+body{
+    background: url(../images/soldier.jpg) no-repeat center center fixed;
+    
+    background-size: cover;
+}
+
+h1{
+    color: #0b5482;
+    margin-top: 100px;
+}
+div.one{
+    position: fixed;
+    top: 40%;
+    left: 40%;
+    background-color: #4caf50;
+    opacity: 0.8;
+}
+p {
+    position: fixed;
+    left: 
+}

@@ -1,0 +1,16 @@
+a:link{
+    background-color: #111111;
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 20px;
+    display: inline-block;
+}
+a:visited{
+    color: #ff3;
+}
+a:hover{
+    background-color: #dddddd;
+}
+a:active{
+    color: #0b5482;
+}
